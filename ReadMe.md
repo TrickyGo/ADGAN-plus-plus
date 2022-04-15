@@ -6,9 +6,7 @@ ADGAN++: Controllable Image Synthesis with Attribute-Decomposed GAN
 Guo Pu*, Yifang Men*, Yiming Mao, Yuning Jiang, Wei-ying Ma, Zhouhui Lian
 In: IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2022. arXiv preprint (comming soon)
 
-![](https://github.com/TrickyGo/ADGAN-plus-plus/blob/main/figure1.png | height=50)
-
-![test image size]<https://github.com/TrickyGo/ADGAN-plus-plus/blob/main/figure1.png" width="400" height="790">
+<img src="https://github.com/TrickyGo/ADGAN-plus-plus/blob/main/figure1.png" width="550" height="700">
 
 # Settings
 Download https://github.com/vacancy/Synchronized-BatchNorm-PyTorch and put it in models/networks/
@@ -37,6 +35,8 @@ python transfer_stage2.py \
 --image_dir demo_images/images \
 --label_nc 151
 ```
+
+The results should be as same as demonstrated in the above figure.
 
 # Acknowledgments
 This code is based on ADGAN(https://github.com/menyifang/ADGAN), SEAN(https://github.com/ZPdesu/SEAN) and SPADE(https://github.com/NVlabs/SPADE). We thank the authors for sharing their wonderful works!
