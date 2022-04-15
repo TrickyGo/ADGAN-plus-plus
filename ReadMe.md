@@ -6,6 +6,8 @@ ADGAN++: Controllable Image Synthesis with Attribute-Decomposed GAN
 Guo Pu*, Yifang Men*, Yiming Mao, Yuning Jiang, Wei-ying Ma, Zhouhui Lian
 In: IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2022. arXiv preprint (comming soon)
 
+![alt text](https://github.com/TrickyGo/ADGAN-plus-plus/main/Figure1.png)
+
 # Settings
 Download https://github.com/vacancy/Synchronized-BatchNorm-PyTorch and put it in models/networks/
 
