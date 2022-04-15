@@ -8,6 +8,8 @@ In: IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2022
 
 ![](https://github.com/TrickyGo/ADGAN-plus-plus/blob/main/figure1.png | height=50)
 
+![test image size]<https://github.com/TrickyGo/ADGAN-plus-plus/blob/main/figure1.png" width="400" height="790">
+
 # Settings
 Download https://github.com/vacancy/Synchronized-BatchNorm-PyTorch and put it in models/networks/
 
